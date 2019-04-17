@@ -1,0 +1,6 @@
+com\cg\process\ProcessApplication.class
+com\cg\process\service\CustomerService.class
+com\cg\process\controller\CustomerController.class
+com\cg\process\service\CustomerServiceImpl.class
+com\cg\process\dao\CustomerDao.class
+com\cg\process\model\Customer.class
